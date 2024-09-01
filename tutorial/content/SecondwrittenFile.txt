@@ -1,0 +1,6 @@
+I changed it's content through writeFileSync.
+I am using template string to merge my first and seconf file giving
+      This is my first File. and Second: My Second File.
+
+      I am using template string to merge my first and seconf file giving
+      This is my first File. and Second: My Second File
